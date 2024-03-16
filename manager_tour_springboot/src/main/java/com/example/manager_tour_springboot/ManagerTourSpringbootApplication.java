@@ -1,0 +1,13 @@
+package com.example.manager_tour_springboot;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class ManagerTourSpringbootApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(ManagerTourSpringbootApplication.class, args);
+    }
+
+}
